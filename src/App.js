@@ -9,7 +9,7 @@ import HomePage from "./pages/homepage/HomePage";
 import ShopPage from "./pages/shop-page/ShopPage";
 import Header from "./components/header-component/Header";
 import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/SignInAndSignUpPage";
-import CheckoutPage from "./pages/checkout/Checkout";
+import CheckoutPage from "./pages/checkout/CheckoutPage";
 
 import { auth } from "./firebase/firebase.utils";
 import { setCurrentUser } from "./redux/user/user.actions";
